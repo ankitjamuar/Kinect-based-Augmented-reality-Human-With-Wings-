@@ -119,7 +119,7 @@ namespace Microsoft.Samples.Kinect.BackgroundRemovalBasics
 
            
             //RENDER WING
-            img = new BitmapImage(new Uri(System.IO.Directory.GetCurrentDirectory() + "/images/2.png"));
+            img = new BitmapImage(new Uri(System.IO.Directory.GetCurrentDirectory() + "/images/1.png"));
             img2 = new BitmapImage(new Uri(System.IO.Directory.GetCurrentDirectory() + "/images/2.png"));
 
 
